@@ -1,5 +1,5 @@
 # **slozhno-sosredotochitsya-fd**
-## [Ссылка на страницу](https://github.com/AlekseiKadochnikov/slozhno-sosredotochitsya-fd.git)
+## [Ссылка на страницу](https://alekseikadochnikov.github.io/zakrivayuschiy-teg-f/)
 ## [Ссылка на макет](https://www.figma.com/design/Yg5IFeWSyl6Js98kWROjVP/4-спринт.-Проектная--работа?node-id=1-2908&t=lizFsSt5nE5uUaiH-0)
 
   В проекте отрабатывались навыки расположения элементов по *Grid*-сетке,
