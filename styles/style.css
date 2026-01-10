@@ -154,10 +154,9 @@
   line-height: 88%;
   background: var(--bg-color);
   color: #fff;
-  border: none;
   overflow: hidden;
   box-shadow: 2px 2px rgb(0 0 0 / 0);
-  outline: solid 2px rgb(0 0 0 / 0);
+  border: solid 2px rgb(0 0 0 / 1);
   transition: box-shadow 0.3s ease;
 }
 
@@ -292,7 +291,6 @@ button span {
 .card__like-button {
   inline-size: 130px;
   padding: 11px 0;
-  outline: var(--border);
 }
 
 .button__footer {
@@ -302,7 +300,6 @@ button span {
   align-items: center;
   margin: 0 auto;
   padding: 16px 19px;
-  outline: var(--border);
 }
 
 .button__footer .floppy {
