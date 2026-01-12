@@ -367,19 +367,3 @@ form {
   padding: 12.5px 116.5px;
   border: var(--border);
 }
-
-/* @media (width >= 700px) {
-
-  .header {
-    padding-block: 130px;
-  }
-
-  .button__footer {
-    flex-direction: row;
-    padding: 12px 19px;
-  }
-
-  .button__footer .floppy {
-    inline-size: 21px;
-  }
-} */
